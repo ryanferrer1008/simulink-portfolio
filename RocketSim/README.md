@@ -1,0 +1,2 @@
+# L1 ROCKET SIMULATION
+A design of an L1 Rocket simulation I made from scratch. I researched what kind of dynamics go into an L1 rocket flight and integrated them into Simulink. I tried making a custom Kalman filter, but regrettably it isn't working. I have it subbed with a Kalman Filter block which works perfectly. I keep trying to modify the code but it still hasn't gone to plan. It's something I hope that I'll be able to fix in the future. I used the thrustcurve data for an H115 motor and then 
